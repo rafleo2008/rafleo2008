@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rafael Muñoz 
 - 👀 I’m interested in developing Python tools that can be applied to transport models or mobility planning
 - 🌱 I’m currently learning Python dashboards
-- 💞️ I’m looking to collaborate on Transport-Related projects
+- 💞️ I’m looking to collaborate on Transport-Related project, BIG data processing, Learn how to handle live GTFS data and dashboard development
 - 📫 Reach me in rlmunozn@unal.edu.co   
