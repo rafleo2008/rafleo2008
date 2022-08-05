@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Rafael Muñoz 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-rafleo2008/rafleo2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in developing Python tools that can be applied to transport models or mobility planning
+- 🌱 I’m currently learning Python dashboards
+- 💞️ I’m looking to collaborate on Transport-Related projects
+- 📫 Reach me in rlmunozn@unal.edu.co   
